@@ -1,2 +1,13 @@
 # parking-lot-detector
-Robust parking lot detection/occupancy analysis pipeline with multiple code versions (traditional CV, baseline/fix, and placeholders for deep learning/AI models).
+Robust parking lot detection/occupancy analysis pipeline with multiple code versions (traditional CV, baseline/fix, and placeholders for deep learning/AI models).-p
+
+Dependencies:
+opencv-python
+numpy
+scikit-learn
+os
+glob
+pathlib
+skimage
+shutil
+
